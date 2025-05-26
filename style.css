@@ -1,0 +1,111 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+header{
+    background-color: #FFC0CB;
+    position: absolute;
+    width: 390px;
+    height: 268px;
+    left: 0;
+    top: 0;
+}
+main{
+    background-color: #E6F8FF;
+    position: absolute;
+    width: 390px;
+    height: 364px;
+    left: 0;
+    top: 256px;
+}
+footer{
+    background-color: #FFC0CB;
+    position: absolute;
+    width: 390px;
+    height: 232px;
+    left: 0;
+    top: 612px;
+}
+
+.happy{
+    position: absolute;
+    width: 180px;
+    height: 53px;
+    left: 105px;
+    top: 98px;
+
+    margin: 0;
+    color: rgb(0, 0, 0);
+    font-family: Mea Culpa;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 55px;
+    letter-spacing: 4%;
+    text-align: center;
+}
+
+.birthday{
+    position: absolute;
+    width: 237px;
+    height: 64px;
+    left: 77px;
+    top: 158px;
+    color: rgb(0, 0, 0);
+    font-family: Mea Culpa;
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 55px;
+    letter-spacing: calc(0.08 * 52px);
+    text-align: center;
+    margin: 0;
+}
+
+.wish{
+    position: absolute;
+    width: 126px;
+    height: 24px;
+    left: 132px;
+    top: 212px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    color: rgb(0, 0, 0);
+    font-family: Amatic SC;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 55px;
+    letter-spacing: 5%;
+    text-align: center;
+
+    margin: 0;
+    margin-left: 12px;
+}
+
+.stars{
+    position: absolute;
+    left: 260px;
+    right: -256px;
+    top: 120px;
+    bottom: -98px;
+}
+
+.drop1{
+    position: absolute;
+    left: 54px;
+    top: 171px;
+}
+
+.drop2{
+    position: absolute;
+    left: 300px;
+    top: 171px;
+}
+
+.kolpak{
+    position: absolute;
+    left: 97px;
+    right: 238.5px;
+    top: 132px;
+    bottom: 94.5px;
+}
