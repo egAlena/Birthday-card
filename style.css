@@ -299,6 +299,7 @@
     body{
         display: flex;
         justify-content: center;
+        margin: auto;
     }
     header{
         background-color: #FFC0CB;
