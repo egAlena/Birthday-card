@@ -266,7 +266,7 @@
     }
     
     .lenta-image{
-        margin: 5px, 0;
+        margin: auto;
         width: 100%;
         overflow: hidden;
     }
@@ -415,7 +415,7 @@
     }
     
     .lenta-image{ 
-        margin: 5px 0;
+        margin: auto;
         width: 100%;
         overflow: hidden;
     }
