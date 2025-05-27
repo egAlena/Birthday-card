@@ -299,7 +299,6 @@
     body{
         display: flex;
         justify-content: center;
-        margin-left: 15px;
     }
     header{
         background-color: #FFC0CB;
@@ -417,7 +416,7 @@
     
     .lenta-image{ 
         position: absolute;
-        top: 30px;
+        top: 20px;
         width: 100%;
         overflow: hidden;
     }
